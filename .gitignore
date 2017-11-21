@@ -5,7 +5,7 @@ Domain/obj
 
 
 Domain/packages/
-Domain/UnitTests/bin/
-Domain/UnitTests/obj/
+UnitTests/bin/
+UnitTests/obj/
 WebUI/bin/
 WebUI/obj/
