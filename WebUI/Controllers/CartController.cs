@@ -1,5 +1,4 @@
-﻿using System;
-using System.Linq;
+﻿using System.Linq;
 using System.Web.Mvc;
 using Domain.Abstract;
 using Domain.Concrete;
@@ -8,7 +7,6 @@ using WebUI.Models;
 
 namespace WebUI.Controllers
 {
-
     public class CartController : Controller
     {
         private IProductRepository repository;

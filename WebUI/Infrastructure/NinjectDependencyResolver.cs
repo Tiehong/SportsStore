@@ -1,12 +1,8 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Web;
 using System.Web.Mvc;
 using Ninject;
-using Domain.Entities;
 using Domain.Abstract;
-using Moq;
 using Domain.Concrete;
 using WebUI.Infrastructure.Abstract;
 using WebUI.Infrastructure.Concrete;
