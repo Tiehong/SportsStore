@@ -1,0 +1,11 @@
+
+Domain/.vs/
+Domain/bin/
+Domain/obj
+
+
+Domain/packages/
+Domain/UnitTests/bin/
+Domain/UnitTests/obj/
+WebUI/bin/
+WebUI/obj/
